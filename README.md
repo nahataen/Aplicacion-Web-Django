@@ -61,8 +61,8 @@ Los botones **Actualizar / Eliminar** en `home/index.html` son solo visuales, no
 
 ```bash
 # 1. Clonar
-git clone https://github.com/nahataen/Aplicacion-Web-Django.git
-cd Aplicacion-Web-Django
+git clone https://github.com/nahataen/django-mascotas-lab.git
+cd django-mascotas-lab
 
 # 2. Entorno virtual
 python -m venv venv
